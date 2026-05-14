@@ -1,0 +1,27 @@
+{
+  "project": "Alpha",
+  "created_by": "Anna Nowak",
+  "team": [
+    {
+      "id": "E001",
+      "name": "Anna Nowak",
+      "email": "anna@firma.test",
+      "phone": "+48 123 456 789",
+      "address": "ul. Kwiatowa 5, Warszawa",
+      "role": "Team Lead"
+    },
+    {
+      "id": "E002",
+      "name": "Jan Kowalski",
+      "email": "jan.kowalski@example.com",
+      "phone": "+48 987 654 321",
+      "role": "Developer"
+    }
+  ],
+  "contacts": {
+    "primary": "A. Nowak",
+    "secondary": "J. Kowalski",
+    "email_primary": "a.nowak@firma.test",
+    "email_secondary": "jkowalski@example.com"
+  }
+}

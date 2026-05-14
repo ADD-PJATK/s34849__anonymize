@@ -1,0 +1,5 @@
+id,full_name,email,phone,address
+1,Anna Nowak,anna@firma.test,+48 123 456 789,"ul. Kwiatowa 5, Warszawa"
+2,Jan Kowalski,jan.kowalski@example.com,+48 987 654 321,ul. Lipowa 12
+3,A. Nowak,a.nowak@firma.test,+48 123 456 789,"ul. Kwiatowa 5, Warszawa"
+4,KOWALSKI Jan,jkowalski@example.com,+48 987 654 321,ul. Lipowa 12

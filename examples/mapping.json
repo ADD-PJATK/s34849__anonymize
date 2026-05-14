@@ -1,0 +1,31 @@
+{
+  "replacements": [
+    {
+      "find": ["Anna Nowak", "A. Nowak", "NOWAK, Anna"],
+      "replace": "PERSON_A"
+    },
+    {
+      "find": ["Jan Kowalski", "J. Kowalski", "KOWALSKI, Jan"],
+      "replace": "PERSON_B"
+    },
+    {
+      "find": ["anna@firma.test", "a.nowak@firma.test"],
+      "replace": "EMAIL_A"
+    },
+    {
+      "find": ["jan.kowalski@example.com", "jkowalski@example.com"],
+      "replace": "EMAIL_B"
+    },
+    {
+      "find": ["+48 123 456 789"],
+      "replace": "PHONE_01"
+    },
+    {
+      "find": ["ul. Kwiatowa 5, Warszawa"],
+      "replace": "ADDRESS_01"
+    }
+  ],
+  "options": {
+    "case_sensitive": false
+  }
+}

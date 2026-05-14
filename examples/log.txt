@@ -1,0 +1,10 @@
+2024-01-15 08:55:12 INFO  System startup complete
+2024-01-15 09:00:01 INFO  Login: Anna Nowak <anna@firma.test> from 192.168.1.10
+2024-01-15 09:03:44 INFO  Login: Jan Kowalski <jan.kowalski@example.com> from 192.168.1.11
+2024-01-15 09:05:17 INFO  File accessed by A. Nowak: /reports/Q4_2023.pdf
+2024-01-15 09:10:33 INFO  Report emailed to jan.kowalski@example.com
+2024-01-15 09:15:02 INFO  Address record updated: ul. Kwiatowa 5, Warszawa
+2024-01-15 09:20:48 WARN  Failed login attempt for jkowalski@example.com
+2024-01-15 09:25:00 INFO  Logout: KOWALSKI, Jan
+2024-01-15 09:30:15 INFO  Profile export requested by Anna Nowak (anna@firma.test)
+2024-01-15 09:35:00 INFO  Phone number +48 123 456 789 verified for account E001
