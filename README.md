@@ -22,8 +22,8 @@ python --version
 ## Installation
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/ADD-PJATK/s34849__anonymize.git
+cd s34849__anonymize
 ```
 
 No additional dependencies. The script runs directly.
