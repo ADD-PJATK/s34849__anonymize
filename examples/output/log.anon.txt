@@ -1,0 +1,10 @@
+2024-01-15 08:55:12 INFO  System startup complete
+2024-01-15 09:00:01 INFO  Login: PERSON_A <EMAIL_A> from 192.168.1.10
+2024-01-15 09:03:44 INFO  Login: PERSON_B <EMAIL_B> from 192.168.1.11
+2024-01-15 09:05:17 INFO  File accessed by PERSON_A: /reports/Q4_2023.pdf
+2024-01-15 09:10:33 INFO  Report emailed to EMAIL_B
+2024-01-15 09:15:02 INFO  Address record updated: ADDRESS_01
+2024-01-15 09:20:48 WARN  Failed login attempt for EMAIL_B
+2024-01-15 09:25:00 INFO  Logout: PERSON_B
+2024-01-15 09:30:15 INFO  Profile export requested by PERSON_A (EMAIL_A)
+2024-01-15 09:35:00 INFO  Phone number PHONE_01 verified for account E001

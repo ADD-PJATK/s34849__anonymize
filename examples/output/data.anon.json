@@ -1,0 +1,27 @@
+{
+  "project": "Alpha",
+  "created_by": "PERSON_A",
+  "team": [
+    {
+      "id": "E001",
+      "name": "PERSON_A",
+      "email": "EMAIL_A",
+      "phone": "PHONE_01",
+      "address": "ADDRESS_01",
+      "role": "Team Lead"
+    },
+    {
+      "id": "E002",
+      "name": "PERSON_B",
+      "email": "EMAIL_B",
+      "phone": "+48 987 654 321",
+      "role": "Developer"
+    }
+  ],
+  "contacts": {
+    "primary": "PERSON_A",
+    "secondary": "PERSON_B",
+    "email_primary": "EMAIL_A",
+    "email_secondary": "EMAIL_B"
+  }
+}
